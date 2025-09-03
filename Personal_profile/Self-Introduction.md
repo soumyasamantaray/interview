@@ -34,5 +34,10 @@ function introduceYourself(): string
 
 #EXAMPLE
 
-Hello, I'm Lipika Behera. I have 5 years of experience in software development, with 4 years focused on PHP, including projects A, B, and C using Laravel, and 1 year in Java, where I built the HRMS project with Spring Boot. This background has provided me with strong capabilities in both front-end and back-end web development, including working with modern frameworks and building robust APIs. I completed my B.Tech from BPUT University.
+Hello, 
+
+I'm Lipika Behera. I have 5 years of experience in software development, with 4 years focused on PHP, including projects A, B,
+and C using Laravel, and 1 year in Java, where I built the HRMS project with Spring Boot. This background has provided me
+with strong capabilities in both front-end and back-end web development, including working with modern frameworks and building 
+robust APIs. I completed my B.Tech from BPUT University.
 
